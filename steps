@@ -1,0 +1,5 @@
+downloaded the  Starter Code - http://bit.ly/3GG5ACO
+Extract
+open Cmd  code . open Terminal
+npm i
+npm run dev
