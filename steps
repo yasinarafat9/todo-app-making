@@ -4,3 +4,7 @@ Extract
 open Cmd  code . open Terminal
 npm i
 npm run dev
+
+go to firebase .com create a project
+npm install firebase
+paste the code in firebase folder firebase.js
