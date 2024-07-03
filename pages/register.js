@@ -29,8 +29,8 @@ const RegisterForm = () => {
     };
 
     const signInWithGoogle = async () => {
-      const user = await signInWithPopup(auth, provider)
-      console.log(user);
+        const user = await signInWithPopup(auth, provider)
+        console.log(user);
     }
 
     return (
